@@ -15,7 +15,7 @@ text
 # Table
 
 header | header 2 | header 3 
---- | --- | ---
+-- | -- | --
 123 | 456 | 789
 123 | 456 | 789
 123 | 456 | jlfdsgff;sdjhgsjdf
